@@ -1,1 +1,1 @@
-# rust-sokoban
+# sokoban
